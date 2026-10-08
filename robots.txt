@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://milkandvodka.github.io/codex-search-lab-20261008/sitemap.xml
